@@ -1,8 +1,8 @@
 # Maha-s-hack
-Name: MAHALAKSHMI M
-Email: infommahalakshmi@gmail.com
-Domain: Pursuing MCA
-College Name: Mepco Schlenk Engineering College
+Name: MAHALAKSHMI M,
+Email: infommahalakshmi@gmail.com,
+Domain: Pursuing MCA,
+College Name: Mepco Schlenk Engineering College.
 
 Task Table:
 Tasks Attempted:8
